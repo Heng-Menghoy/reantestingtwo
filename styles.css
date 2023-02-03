@@ -381,7 +381,7 @@ input:focus {
 @media screen and (max-width: 768px) {
   .footer {
     flex-direction: column;
-    padding: 30px 30px 30px 50px;
+    padding: 50px 0px 50px 30px;
     gap: 3rem;
   }
 }
